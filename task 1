@@ -1,0 +1,14 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int a=4,b=5;
+    cout<<"sum of 4 and 5 if "<<a + b;
+    float c=4,d=5;
+    cout<<"\n difference of 4 and 5 if "<<a - b;
+    cout<<"\n multiplication of 4 and 5 if "<<a * b;
+    cout<<"\n division of 4 and 5 if "<<c/d;
+    return 0;
+}
